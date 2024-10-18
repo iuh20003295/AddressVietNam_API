@@ -1,0 +1,24 @@
+{
+  "name": "json-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "firebase": "^10.14.1",
+    "firebase-functions": "^6.0.1",
+    "helmet": "8.0.0",
+    "nodemon": "3.1.7"
+  },
+  "engines": {
+    "node": "18"
+  }
+}
